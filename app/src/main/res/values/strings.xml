@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrimeiroCliente</string>
+   <string name="textoCliente">Exclusivo: 30% de desconto para os pedidos feitos através do aplicativo.Mais informações: (99) 99999-9999.</string>
+</resources>
